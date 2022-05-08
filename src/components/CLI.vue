@@ -14,8 +14,10 @@
 </template>
 
 <script>
+// make the import line comment for further re-check
 // import CountNumber from "./components/CountNumber.vue";
 
+// some sample data
 export default {
   data() {
     return {
